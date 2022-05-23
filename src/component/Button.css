@@ -1,0 +1,47 @@
+.btn{
+  margin: 5vh 0 15px 15px;
+  padding: 10px 20px;
+  background: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+/* start btn  */
+.start{
+  border: 1px solid green;
+  color: green;
+}
+.start:hover{
+  color: #fff;
+  background: green;
+}
+
+/* pause btn  */
+.pause{
+  border: 1px solid yellow;
+  color: yellow;
+}
+.pause:hover{
+  color: #fff;
+  background: yellow;
+  color: #000;
+}
+
+/* stop btn  */
+.stop{
+  border: 1px solid red;
+  color: red;
+}
+.stop:hover{
+  color: #fff;
+  background: red;
+}
+
+/* .restart btn  */
+.restart{
+  border: 1px solid greenyellow;
+  color: greenyellow;
+}
+.restart:hover{
+  color: #fff;
+  background: greenyellow;
+}
